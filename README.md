@@ -36,6 +36,9 @@
 </p>
 
 ---
+<!-- GitHub Action will auto-update this -->
+## 📘 Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/soumyapachpor?theme=dark&font=Karma)](https://leetcode.com/soumyapachpor/)
 
 ### ✍️ Recent Projects
 - 💼 [JobPortal Pro (Next.js + Firebase)](https://github.com/soumyapachpor/jobportal)
