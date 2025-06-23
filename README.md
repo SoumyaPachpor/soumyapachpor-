@@ -38,7 +38,7 @@
 ---
 <!-- GitHub Action will auto-update this -->
 ## 📘 Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/soumyapachpor?theme=dark&font=Karma)](https://leetcode.com/haze-srp/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/haze-srp?ext=contest&theme=dark&font=Karma)](https://leetcode.com/haze-srp/)
 
 ### ✍️ Recent Projects
 - 💼 [JobPortal Pro (Next.js + Firebase)](https://github.com/soumyapachpor/jobportal)
